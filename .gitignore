@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+data_env/
+
+# Dossiers d'environnement virtuel
+env/
+venv/
+data_env/
+
+# Fichiers Jupyter inutiles
+.ipynb_checkpoints/
