@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+more-itertools
+notebook
+scikit-learn
